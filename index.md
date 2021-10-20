@@ -2,6 +2,7 @@
 
 ## About Me
 - [Instagram](https://instagram.com/katie_grinsell)
+- [Old index](./index-demo.html)
 
 ## Processing Sketches
 
